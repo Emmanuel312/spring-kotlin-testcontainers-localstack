@@ -1,0 +1,6 @@
+aws:
+  endpoint: "http://localhost:4566"
+
+sns:
+  email:
+    endpoint: arn:aws:sns:us-east-1:000000000000:email
